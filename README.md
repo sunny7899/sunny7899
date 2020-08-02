@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Programmer. Maker. Curious 
+#### Programmer | Maker | Curious | Trainer | Responsible | Ambitious
 
 #### I have done work on many languages and tech.
 
@@ -12,7 +12,7 @@ Image(thumbnail) with caption and link (In Progress)
 I enjoy writing my thinking and some times I publish it. Here are some of my favourite:
 
 https://software-development123.blogspot.com/2020/06/javascript-introduction.html
-heading and description Reand More..
+heading and description Read More..
 
 ## Quality Repositories
 While I am a well known JS dev with many repositories, I think these are some of my best repos:
