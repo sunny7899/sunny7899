@@ -2,7 +2,7 @@
 
 #### Programmer | Maker | Curious | Trainer | Responsible | Ambitious
 
-#### I have done work on many languages and tech.
+#### Able to work on multiple languages and tech.
 
 ## Applications that I have worked on
 Following websites were designed, programmed and delievered my me:<br>
@@ -11,8 +11,9 @@ Image(thumbnail) with caption and link (In Progress)
 ## Tech Writing
 I enjoy writing my thinking and some times I publish it. Here are some of my favourite:
 
-https://software-development123.blogspot.com/2020/06/javascript-introduction.html
-heading and description Read More..
+### Javascript-introduction
+<p><a href="https://software-development123.blogspot.com/2020/06/javascript-introduction.html">Best language for Web Developers. <br>
+  Read More..</a></p>
 
 ## Quality Repositories
 While I am a well known JS dev with many repositories, I think these are some of my best repos:
