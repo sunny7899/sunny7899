@@ -16,7 +16,8 @@ I enjoy writing my thinking and some times I publish it. Here are some of my fav
   Read More..</a></p>
 
 ## Quality Repositories
-While I am a well known JS dev with many repositories, I think these are some of my best repos:
+While I love to read and write code, I think these are some of my best repos:
+
 name(link) description (In progress)
 
 
@@ -32,17 +33,14 @@ Front end development
 ### 📫 How to reach me:
 Through Mail [Sunny](mailto:sunny.gp07@gmail.com?subject=[GitHub]%20Source%20Regarding%20...)
 
+### 👯 I’m looking to collaborate on 
+Interesting projects
+
 <!--
 **sunny7899/sunny7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
