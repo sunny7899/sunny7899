@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sunny A front end developer
 
 #### Programmer | Maker | Curious | Trainer | Responsible | Ambitious
 
@@ -32,9 +32,23 @@ Front end development
 
 ### 📫 How to reach me:
 Through Mail [Sunny](mailto:sunny.gp07@gmail.com?subject=[GitHub]%20Source%20Regarding%20...)
+Give me a buzz! let's work together.
 
 ### 👯 I’m looking to collaborate on 
 Interesting projects
+
+### Programming Languages
+Javascript | Python
+
+### Frontend Skills
+
+HTML | CSS | Angular
+
+### DevTools 
+
+Git Version Control
+
+### Other Skills
 
 <!--
 **sunny7899/sunny7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
