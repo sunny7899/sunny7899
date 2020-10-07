@@ -4,9 +4,7 @@
 
 #### Able to work on multiple languages and tech.
 
-## Applications that I have worked on
-Following websites were designed, programmed and delievered my me:<br>
-Image(thumbnail) with caption and link (In Progress)
+
 
 ## Tech Writing
 I enjoy writing my thinking and some times I publish it. Here are some of my favourite:
@@ -69,7 +67,9 @@ Git Version Control
 
 <!--
 **sunny7899/sunny7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Applications that I have worked on
+Following websites were designed, programmed and delievered my me:<br>
+Image(thumbnail) with caption and link (In Progress)
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
