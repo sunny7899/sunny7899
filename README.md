@@ -18,9 +18,24 @@ I enjoy writing my thinking and some times I publish it. Here are some of my fav
 ## Quality Repositories
 While I love to read and write code, I think these are some of my best repos:
 <div>
-JS 30 Day challenge
+[JS 30 Day challenge] 
 <a href="https://github.com/sunny7899/js-30">Github URL</a> 
 <a href="https://sunny7899.github.io/js-30/">Demo</a>
+<div><br/>
+<div>
+[units] 
+<a href="https://github.com/sunny7899/units">Github URL</a> 
+<a href="https://sunny7899.github.io/units/convertentries">Demo</a>
+<div><br/>
+<div>
+[JS Store] 
+<a href="https://github.com/sunny7899/jsstore">Github URL</a> 
+<a href="https://sunny7899.github.io/jsstore/">Demo</a>
+<div> <br/>
+<div>
+[Hackernews Clone] 
+<a href="https://github.com/sunny7899/hackernews">Github URL</a> 
+<a href="https://sunny7899.github.io/hackernews/topstories">Demo</a>
 <div>
 
 ### 🔭 I’m currently working on
