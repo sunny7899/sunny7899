@@ -17,9 +17,11 @@ I enjoy writing my thinking and some times I publish it. Here are some of my fav
 
 ## Quality Repositories
 While I love to read and write code, I think these are some of my best repos:
-
-name(link) description (In progress)
-
+<div>
+JS 30 Day challenge
+<a href="https://github.com/sunny7899/js-30">Github URL</a> <br/>
+<a href="https://sunny7899.github.io/js-30/">Demo</a>
+<div>
 
 ### 🔭 I’m currently working on
 Unit Testing
