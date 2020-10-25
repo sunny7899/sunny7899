@@ -9,8 +9,8 @@
 ## Tech Writing
 I enjoy writing my thinking and some times I publish it. Here are some of my favourite:
 
-### Javascript-introduction
-<p><a href="https://software-development123.blogspot.com/2020/06/javascript-introduction.html">Best language for Web Developers. <br>
+### Copy Data in JS
+<p><a href="https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/">reference and copy variables in JS. <br>
   Read More..</a></p>
 
 ## Quality Repositories
