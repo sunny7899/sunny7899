@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sunny A front end developer
 
-#### Programmer | Maker | Curious | Trainer | Responsible | Ambitious | PassionateCoder 
+#### Programmer | Maker | Curious | Trainer | Responsible | Ambitious | PassionateCoder | Professional | Quick | Logical | Consistent |  Industrious | Enthusiastic  
 #techtips #angular #programming #coding #programmer #developer  #technology #passionate #webdesignExpert #userexperience
 
 #### Able to work on multiple languages and tech.
