@@ -24,7 +24,7 @@ SCSS
 Front end development
 
 ### 📫 How to reach me:
-Through Mail [Sunny](mailto:apexmansunny@gmail.com?subject=[GitHub]%20Source%20Regarding%20...)
+Through Mail [Sunny](mailto:sunnyvales789@gmail.com?subject=[GitHub]%20Source%20Regarding%20...)
 Give me a buzz! let's work together.
 
 ### 👯 I’m looking to collaborate on 
