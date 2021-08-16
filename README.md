@@ -34,38 +34,40 @@ Javascript | TS | Python
 
 ### Frontend Skills
 
-HTML | CSS | SCSS | Angular
+HTML | CSS | SCSS | Angular | React
 
 ### DevTools 
 
 Git Version Control
 
 ### Other Skills
-Leadership | Time management | Collaboration | Problem-solving skills.
-<!--
+Leadership | Time management | Collaboration | Problem-solver | System Design | Design pattern.
+
 ## Quality Repositories
 While I love to read and write code, I think these are some of my best repos:
-**sunny7899/sunny7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[Agora-video-call](https://github.com/angulardevelopment/video-app-agora-rtc)
+
 ## Applications that I have worked on
 Following websites were designed, programmed and delievered my me:<br>
-Image(thumbnail) with caption and link (In Progress)
+Salespro |
+Menupro |
+Video conferencing tool
+
+### 🤔 I’m looking for help with
+Backend (Nest)  Frontend (ReactJS, GatsBy)
+
+
+
+<!--
+
+**sunny7899/sunny7899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
+- 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### ⚡ Fun fact:
+I like to 
 -->
 
-https://leetcode.com/sunnyvales/
-https://auth.geeksforgeeks.org/user/sunnygp07/profile 
-https://csacademy.com/user/sunnyvales
-https://www.codewars.com/users/sunny7899
-https://www.hackerrank.com/sunnyvales789
-https://codingbat.com/python
-https://atcoder.jp/users/sunnyvale
-https://www.techgig.com/sunnyvales
-https://www.codecademy.com/profiles/pyPlayer18718
-https://codeforces.com/profile/sunnyvales
-https://www.topcoder.com/members/sunny7899
-https://www.codechef.com/users/sunnygupta001
-https://www.hackerearth.com/@sunnyvales 
-https://www.spoj.com/status/sunnyvale/
+
