@@ -34,7 +34,7 @@ Javascript | TS | Python
 
 ### Frontend Skills
 
-HTML | CSS | SCSS | Angular | React
+HTML | CSS | SCSS | Angular | React  | JS
 
 ### DevTools 
 
@@ -50,8 +50,7 @@ While I love to read and write code, I think these are some of my best repos:
 
 ## Applications that I have worked on
 Following websites were designed, programmed and delievered my me:<br>
-Salespro |
-Menupro |
+Food ordering application <br>
 Video conferencing tool
 
 ### 🤔 I’m looking for help with
