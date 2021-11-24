@@ -27,10 +27,10 @@ Through Mail [Sunny](mailto:sunnyvales789@gmail.com?subject=[GitHub]%20Source%20
 Give me a buzz! let's work together.
 
 ### 👯 I’m looking to collaborate on 
-Interesting projects
+Blockchain projects, Ecommerce , startups, 
 
 ### Programming Languages
-Javascript | TS | Python
+Javascript | TS 
 
 ### Frontend Skills
 
@@ -41,7 +41,7 @@ HTML | CSS | SCSS | Angular | React  | JS
 Git Version Control
 
 ### Other Skills
-Leadership | Time management | Collaboration | Problem-solver | System Design | Design pattern.
+Leadership | Time management | Collaboration | Problem-solver 
 
 ## Quality Repositories
 While I love to read and write code, I think these are some of my best repos:
@@ -50,13 +50,18 @@ While I love to read and write code, I think these are some of my best repos:
 
 ## Applications that I have worked on
 Following websites were designed, programmed and delievered my me:<br>
-Food ordering application <br>
-Video conferencing tool
+Enterprise Food ordering application <br>
+Video conferencing tools
 
 ### 🤔 I’m looking for help with
-Backend (Nest)  Frontend (ReactJS, GatsBy)
+Backend (NestJS), Frontend (ReactJS, GatsBy), static site generators
 
 
+### ⚡ Fun fact:
+I like to drink coffee while doing code.
+
+### 😄 Pronouns: ...
+proactive | consistent
 
 <!--
 
@@ -64,9 +69,6 @@ Backend (Nest)  Frontend (ReactJS, GatsBy)
 
 Here are some ideas to get you started:
 - 
-- 😄 Pronouns: ...
-### ⚡ Fun fact:
-I like to 
 -->
 
 
