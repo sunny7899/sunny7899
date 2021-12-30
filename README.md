@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Sunny A front end developer
 
 
-
-#### Able to work on multiple languages and tech.
+#### Able to work on multiple languages and tech. Also a social media influencer.
 
 
 
@@ -54,8 +53,7 @@ Enterprise Food ordering application <br>
 Video conferencing tools
 
 ### 🤔 I’m looking for help with
-I have lots of ideas to work on need people who can collaborate & work together.
-Also looking for people who have good knowledge of Backend (NestJS), Frontend (ReactJS, GatsBy), static site generators
+I have lots of ideas to work on need people who can collaborate & work together. Open for collabloaration.
 
 
 ### ⚡ Fun fact:
