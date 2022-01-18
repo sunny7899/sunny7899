@@ -40,7 +40,7 @@ HTML | CSS | SCSS | Angular | React  | JS
 Git Version Control
 
 ### Other Skills
-Leadership | Time management | Collaboration | Problem-solver 
+Leadership | Time management | Collaboration | Problem-solver  | Product Mindset
 
 ## Quality Repositories
 While I love to read and write code, I think these are some of my best repos:
