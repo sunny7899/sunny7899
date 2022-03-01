@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sunny A front end developer
 
 
-#### Able to work on multiple languages and tech. Also a social media influencer.
+#### Able to work on multiple languages and tech. 
 
 
 
@@ -26,10 +26,10 @@ Through Mail [Sunny](mailto:sunnyvales789@gmail.com?subject=[GitHub]%20Source%20
 Give me a buzz! let's work together.
 
 ### 👯 I’m looking to collaborate on 
-Blockchain projects, Ecommerce , startups, 
+Blockchain , Ecommerce projects 
 
 ### Programming Languages
-Javascript | TS 
+Javascript | TS | Python
 
 ### Frontend Skills
 
@@ -37,10 +37,10 @@ HTML | CSS | SCSS | Angular | React  | JS
 
 ### DevTools 
 
-Git Version Control
+Chrome debugging tool | Git Version Control
 
 ### Other Skills
-Leadership | Time management | Collaboration | Problem-solver  | Product Mindset
+Leadership | Time management | Collaboration | Problem-solver  | Product Mindset | social media influencer.
 
 ## Quality Repositories
 While I love to read and write code, I think these are some of my best repos:
@@ -53,7 +53,7 @@ Enterprise Food ordering application <br>
 Video conferencing tools
 
 ### 🤔 I’m looking for help with
-I have lots of ideas to work on need people who can collaborate & work together. Open for collabloaration.
+smart peoples who can collaborate & work together.
 
 
 ### ⚡ Fun fact:
