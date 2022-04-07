@@ -11,6 +11,12 @@ I enjoy writing my thinking and some times I publish it. Here are some of my fav
 ### Copy Data in JS
 <p><a href="https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/">reference and copy variables in JS. <br>
   Read More..</a></p>
+ 
+ ### Video App using Angular and Agora RTC
+<p><a href="https://blog.learningdollars.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/">How to build a Video App using Angular and Agora RTC <br>
+  Read More..</a></p>
+  
+  
 
 ### 🔭 I’m currently working on
 Unit Testing
