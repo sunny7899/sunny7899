@@ -55,10 +55,14 @@ https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/
 * Project management- jira, trello
 * Dev tools - jenkins, git VCS
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+</p>
 
+## Stats :star:
 
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny7899&show_icons=true&theme=gotham)  
+<br></br>
+![Profile views](https://gpvc.arturio.dev/sunny7899) 
 
 
