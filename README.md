@@ -63,6 +63,6 @@ https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny7899&show_icons=true&theme=gotham)  
 <br></br>
-![Profile views](https://gpvc.arturio.dev/sunny7899) 
+![Profile views](https://komarev.com/ghpvc/?username=sunny7899) 
 
 
