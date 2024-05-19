@@ -1,5 +1,5 @@
 ## About
-### Hi there 👋 I'm Sunny A front end developer
+### Hi there 👋 I'm Sunny A Full Stack developer
 Software Engineer | Blogger | Content Creator | Developer | Product Engineer | Tech-nerd
 
 ## Description
