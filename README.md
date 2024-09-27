@@ -3,7 +3,7 @@
 Software Engineer | Blogger | Content Creator | Developer | Product Engineer | Tech-nerd
 
 ## Description
-Front-end developer with over 7 years of experience who is passionate about the JavaScript ecosystem. I am most skilled and passionate about  Angular and React. I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system.  I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
+Full Stack developer with over 7 years of experience. I am most skilled and passionate about Frontend(Angular, React), Backend(NodeJS, Dotnet). I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system.  I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
 
 In my free time, I like to write blogs related to software development.  I have the pleasure of working on exciting projects across industries. The applications that i developed were scalable, deployable, and maintainable.
 
