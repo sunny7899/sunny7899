@@ -28,6 +28,14 @@ I am a problem setter on CutShort.
 I enjoy writing my thinking and some times I publish it. written the blogs on Geeksforgeek, thecrazyprogrammer. Here are some of my favourite:
 https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/
 
+### Freelancing Profiles
+* [Sunnyg007 - Freelancer on Guru](https://www.guru.com/freelancers/sunnyg007)
+* [Sunny G. Profile | Freelancer](https://www.freelancer.in/u/Sunnyvales0909)
+* [https://www.truelancer.com/freelancer/sunnygupta9](https://www.truelancer.com/freelancer/sunnygupta9)
+* [learningdollars.com/freelancer/profile/?erid=sunnyg](http://learningdollars.com/freelancer/profile/?erid=sunnyg)
+* [https://www.codementor.io/@apexsunny](https://www.codementor.io/@apexsunny)
+* [https://remoteok.com/@sunnyvale](https://remoteok.com/@sunnyvale)
+
 ## Packages Knowledge
 * JSStore: It utilises the Index DB of the browser. With this library, you can write code like SQL queries which is a very good approach to handling offline systems.
 * AGORA 
