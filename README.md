@@ -50,8 +50,15 @@ https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/
 * [Angular](https://breezy-debt-856.notion.site/e74d39b91a0b45db86ccf98980ae272b?v=8d485a4a2f1546aa8b33375ab8123bb9)
 * [ReactJS](https://breezy-debt-856.notion.site/a11886c4bcfa4dc289720fc9815f1850?v=8e2f216fa2624e9ab96f256d616f0f8c)
 
+### CV
+* [Resume](https://breezy-debt-856.notion.site/Resume-a819871c4cec4dcba0d0bfedb71063dd)
+* [Sunny Portfolio](https://sunnyportfolio-cv.carrd.co/)
+
 ### Courses I Offer
 * [Frontend Training](https://beginner-to-pro-training.vercel.app/)
+
+### Coding Profile
+* [https://stackoverflow.com/users/10336767/sunny](https://stackoverflow.com/users/10336767/sunny)
 
 ## Packages Knowledge
 * JSStore: It utilises the Index DB of the browser. With this library, you can write code like SQL queries which is a very good approach to handling offline systems.
