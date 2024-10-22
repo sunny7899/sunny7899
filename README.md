@@ -35,6 +35,23 @@ https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/
 * [learningdollars.com/freelancer/profile/?erid=sunnyg](http://learningdollars.com/freelancer/profile/?erid=sunnyg)
 * [https://www.codementor.io/@apexsunny](https://www.codementor.io/@apexsunny)
 * [https://remoteok.com/@sunnyvale](https://remoteok.com/@sunnyvale)
+* [https://www.linkedin.com/company/infowebtech/](https://www.linkedin.com/company/infowebtech/)
+* [https://topmate.io/softwaredev](https://topmate.io/softwaredev)
+
+### Social Media Handles That I Manage
+* [https://www.threads.net/@angular_development](https://www.threads.net/@angular_development)
+* [https://eraoftech.medium.com/](https://eraoftech.medium.com/)
+* [https://www.facebook.com/learnangular2plus/](https://www.facebook.com/learnangular2plus/)
+* [https://www.facebook.com/groups/694164224125016/](https://www.facebook.com/groups/694164224125016/)
+* [https://www.instagram.com/angular_development/](https://www.instagram.com/angular_development/)
+* [http://youtube.com/@neweraofcoding](http://youtube.com/@neweraofcoding)
+
+### Side Projects
+* [Angular]https://breezy-debt-856.notion.site/e74d39b91a0b45db86ccf98980ae272b?v=8d485a4a2f1546aa8b33375ab8123bb9
+* [ReactJS]https://breezy-debt-856.notion.site/a11886c4bcfa4dc289720fc9815f1850?v=8e2f216fa2624e9ab96f256d616f0f8c
+
+### Courses I Offer
+* [Frontend Training]https://beginner-to-pro-training.vercel.app/
 
 ## Packages Knowledge
 * JSStore: It utilises the Index DB of the browser. With this library, you can write code like SQL queries which is a very good approach to handling offline systems.
