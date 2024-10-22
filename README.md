@@ -34,7 +34,7 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 * [Sunny G. Profile | Freelancer](https://www.freelancer.in/u/Sunnyvales0909)
 * [https://www.truelancer.com/freelancer/sunnygupta9](https://www.truelancer.com/freelancer/sunnygupta9)
 * [learningdollars.com/freelancer/profile/?erid=sunnyg](http://learningdollars.com/freelancer/profile/?erid=sunnyg)
-* [https://www.codementor.io/@apexsunny](https://www.codementor.io/@apexsunny)
+* [https://arc.dev/@apexsunny](https://arc.dev/@apexsunny)
 * [https://remoteok.com/@sunnyvale](https://remoteok.com/@sunnyvale)
 * [https://www.linkedin.com/company/infowebtech/](https://www.linkedin.com/company/infowebtech/)
 * [https://topmate.io/softwaredev](https://topmate.io/softwaredev)
