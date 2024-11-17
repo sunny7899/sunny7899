@@ -413,4 +413,67 @@ Our goal was to maintain the existing brand identity while maintaining a modern,
 The biggest challenge of this project was the tight deadline. We had to deliver a complete redesign in just two months. This meant that we had to work quickly while still ensuring that every detail was perfect. In order to ensure that all aspects of the project were completed on time, we also had to coordinate our work with other teams and departments.
 A challenging project but one that was incredibly rewarding. We successfully completed the project within the timeline, and the client was extremely pleased with the results
 
+
+who you led
+what you led them to do
+what was difficult about it
+what you did do to be successful
+what about you specifically made it successful (e.g. your confidence, tenacity, etc.)
+
+Give me an example of your persuasiveness(the quality of being able to make you want to do or believe a particular thing), initiative, resourcefulness, and leadership skills.
+Give an example of the biggest/most demanding team leading you have done.
+Tell a situation in which you took the lead without being asked to do so and why.
+What are the personal growth opportunities (such as leadership training, company-supported community work, mentoring, and so on)?
+Who inspired you to become an Engineer?
+Make preparation for such questions. Have a few heroes /Leaders of the industry in mind, who have achieved something extraordinary in their life.
+If you have leadership experience then describe it.
+
+People:
+
+ Building and managing effective teams
+ Hiring and retaining top technical talent
+ Developing and mentoring team members
+ Leading through change and uncertainty
+ Creating a culture of innovation and continuous learning
+ Empowering team members to take ownership and make decisions
+ Managing conflicts and difficult conversations
+
+Delivery problems:
+ Implementing agile methodologies and other delivery frameworks
+ Managing technical debt and ensuring code quality
+ Estimating and planning project timelines and budgets
+ Managing risk and minimizing project failures
+ Scaling infrastructure and applications to meet demand
+ Improving the speed and reliability of software deployments
+ Ensuring compliance and security in software development
+
+Вiz results:
+
+ Defining and measuring key performance indicators (KPIs)
+ Communicating technical progress and impact to non-technical stakeholders
+ Aligning technical goals with business objectives
+ Building a compelling product vision and roadmap
+ Using user feedback to inform product development
+ Managing stakeholders and building strong relationships with customers and partners
+ Sustainability transformation strategies
+ External tools and services management practices
+
+“Who I Am,” “What I Do,” “How I Do It,” “Why I Do It,” “Who I Do It For
+What u can do
+What you cannot do
+In what thing you need help
+Where u r going
+What u want to build
+
+Get started by answering these questions in your video
+1	What is your name and current work profile?
+2	What are your professional and technical skills?
+3	Mention if you have received any award in your field?
+4	What are your goals and aspirations
+
+
+ 
+
+
+
 ```
