@@ -28,7 +28,8 @@ I am a problem setter on CutShort.
 I enjoy writing my thinking and some times I publish it. written the blogs on Geeksforgeek, thecrazyprogrammer. Here are some of my favourite:
 * [https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/](https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/)
 * [https://blog.ldtalentwork.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/](https://blog.ldtalentwork.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/)
-
+* [https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/](https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/)
+  
 ### Freelancing Profiles
 * [Sunnyg007 - Freelancer on Guru](https://www.guru.com/freelancers/sunnyg007)
 * [Sunny G. Profile | Freelancer](https://www.freelancer.in/u/Sunnyvales0909)
