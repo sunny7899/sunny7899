@@ -1,8 +1,8 @@
-## About
+## 🎉 About Me:
 ### Hi there 👋 I'm Sunny A Full Stack developer
 Software Engineer | Blogger | Content Creator | Developer | Product Engineer | Tech-nerd
 
-## Description
+## 💼 What I Do:
 Full Stack developer with over 7 years of experience. I am most skilled and passionate about Frontend(Angular, React), Backend(NodeJS, Dotnet). I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system.  I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
 
 In my free time, I like to write blogs related to software development.  I have the pleasure of working on exciting projects across industries. The applications that i developed were scalable, deployable, and maintainable.
@@ -111,5 +111,19 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sunny7899&show_icons=true&theme=gotham)  
 <br></br>
 ![Profile views](https://komarev.com/ghpvc/?username=sunny7899) 
+
+🌟 Spotlight: Meet Sunny🌟
+Product Engineer at Sunnyvale.
+
+🌱 Fun Fact:
+[Share a fun or interesting fact about them, such as a hobby, passion, or something unique.]
+
+🙌 Why people Appreciate Me: Here are the reviews or work i done apart from tech work-
+[Highlight their contributions to the team, work ethic, or positive impact on company culture.]
+
+If you’d like to connect or learn more about what i do, feel free to reach out!
+
+#TeamSpotlight #EmployeeRecognition #CompanyCulture #Teamwork
+
 
 
