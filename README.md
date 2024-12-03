@@ -2,6 +2,32 @@
 ### Hi there 👋 I'm Sunny A Full Stack developer
 Software Engineer | Blogger | Content Creator | Developer | Product Engineer | Tech-nerd
 
+🌟 Spotlight: Meet Sunny🌟
+Product Engineer at Sunnyvale.
+
+🌱 Fun Fact:
+Remote work is a lifestyle. AI is a friend, not a competitor
+
+### 🙌 Why People Appreciate Me
+Here are the reviews or work i done apart from tech work.
+Over the years, I’ve had the privilege of working with amazing teams, and the feedback I’ve received has been incredibly humbling. While my technical skills are often highlighted, there are other aspects of my work that people seem to value just as much, if not more.
+
+#### 1. **Team Collaboration and Leadership**
+One of the aspects that people appreciate the most is my ability to collaborate effectively with cross-functional teams. I take pride in being an active listener, encouraging diverse perspectives, and ensuring that everyone's voice is heard. Whether it's guiding junior team members, collaborating with product managers, or working alongside designers, I strive to create an environment where open communication and mutual respect thrive.
+
+#### 2. **Work Ethic and Reliability**
+Colleagues often mention my strong work ethic and reliability. I approach each task with a sense of ownership and responsibility, ensuring deadlines are met and that the quality of the work always remains a priority. When challenges arise, I am quick to adapt and find solutions, which is something that has helped the team overcome tight schedules and demanding projects.
+
+#### 3. **Positive Impact on Company Culture**
+I believe that company culture plays a vital role in both personal and team success. I've consistently tried to foster a positive and inclusive work environment by being approachable, offering support where needed, and celebrating wins, both big and small. I also enjoy organizing team-building activities or simply being the one to lift spirits during stressful times. It’s important to me that the team feels motivated and united, and I always do my best to contribute to that sense of camaraderie.
+
+#### 4. **Problem Solving and Critical Thinking**
+Whether it's finding creative solutions to technical problems or navigating interpersonal dynamics, I’ve earned appreciation for my ability to approach challenges with critical thinking and a calm demeanor. People value how I break down complex issues into manageable tasks and work collaboratively to find the best solutions, ensuring the team moves forward cohesively.
+
+If you’d like to connect or learn more about what i do, feel free to reach out!
+
+#TeamSpotlight #EmployeeRecognition #CompanyCulture #Teamwork
+
 ## 💼 What I Do:
 Full Stack developer with over 7 years of experience. I am most skilled and passionate about Frontend(Angular, React), Backend(NodeJS, Dotnet). I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system.  I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
 
@@ -112,18 +138,7 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 <br></br>
 ![Profile views](https://komarev.com/ghpvc/?username=sunny7899) 
 
-🌟 Spotlight: Meet Sunny🌟
-Product Engineer at Sunnyvale.
 
-🌱 Fun Fact:
-[Share a fun or interesting fact about them, such as a hobby, passion, or something unique.]
-
-🙌 Why people Appreciate Me: Here are the reviews or work i done apart from tech work-
-[Highlight their contributions to the team, work ethic, or positive impact on company culture.]
-
-If you’d like to connect or learn more about what i do, feel free to reach out!
-
-#TeamSpotlight #EmployeeRecognition #CompanyCulture #Teamwork
 
 
 
