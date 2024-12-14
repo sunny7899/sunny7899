@@ -74,6 +74,21 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 * [https://www.instagram.com/angular_development/](https://www.instagram.com/angular_development/)
 * [http://youtube.com/@neweraofcoding](http://youtube.com/@neweraofcoding)
 
+Being an admin of an these pages involves not only maintaining the technical aspects of the page but also actively engaging with the community and sharing knowledge. 
+Here's how i effectively fulfill both roles: committed to learning, sharing, and growing together.
+1. **Content Curation and Creation:**
+
+2. **Engagement and Interaction:**
+
+3. **Technical Support and Guidance:**
+
+4. **Community Building and Networking:**
+
+5. **Page Maintenance and Updates:**
+
+
+
+
 ### Side Projects
 * [Angular](https://breezy-debt-856.notion.site/e74d39b91a0b45db86ccf98980ae272b?v=8d485a4a2f1546aa8b33375ab8123bb9)
 * [ReactJS](https://breezy-debt-856.notion.site/a11886c4bcfa4dc289720fc9815f1850?v=8e2f216fa2624e9ab96f256d616f0f8c)
