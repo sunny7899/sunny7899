@@ -1,4 +1,3 @@
-```
 Before joining company ask these details
 Engineering employees-
 remote employees-
@@ -470,10 +469,3 @@ Get started by answering these questions in your video
 2	What are your professional and technical skills?
 3	Mention if you have received any award in your field?
 4	What are your goals and aspirations
-
-
- 
-
-
-
-```

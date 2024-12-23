@@ -1,6 +1,4 @@
- ```
 SWOT 
-
 ● How do your education, skills, talents, certifications, and connections set you apart from your peers?
 ● What would your boss or coworkers say are your strengths?
 ● What values or ethics do you have that your peers often lack?
@@ -121,5 +119,3 @@ Threats:
 ● Who is your competition?
 ● Will new technology or certification demand slow your progress?
 ● How is your job or industry changing in ways that could affect your advancement?
-
-
