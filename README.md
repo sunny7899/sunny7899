@@ -59,7 +59,8 @@ Create and contribute to open source software
 Customer focused, data and metrics-driven product development
 Good at connecting with people and building organizational values
 Entrepreneurial spirit
-I love to pair Program and ship quality code that's solidly tested. Skills that I'm proficient in and continue to learn with: JavaScript/es6, Angular, React.Js, Design Patterns, TypeScript, Angular & React Performance, Client Side Performance Optimization, HTML5, Jest, Jasmine, and Webpack.
+I love to pair Program and ship quality code that's solidly tested.
+Client Side Performance Optimization
 
 ## Achievements/Accomplishments
 Created an application that works both online and offline. 
@@ -264,19 +265,19 @@ Here's how i effectively fulfill both roles: committed to learning, sharing, and
 * NGRX 
 * Emailjs
 
-## Skills
-* Skilled in front-end engineering using Object-Oriented JavaScript, various JavaScript libraries and micro frameworks (React.js, Angular 2+), HTML, CSS, and Bootstrap.
+## Skills that I'm proficient in and continue to learn with
+* Skilled in front-end engineering using Object-Oriented JavaScript, various JavaScript libraries and micro frameworks (React.js, Angular), HTML, CSS, and Bootstrap.
 * understanding of enterprise software design patterns and data structures.
 * understanding of HTTP protocol, Web Application Design/Architecture.
 * Web Components
 * Visual studio code
 * Code quality- ESLint, TS lint
-* Build tools- WebPack/Bundler
-* Testing and debugging- Jasmine, Karma 
+* Build tools/Bundler- WebPack
+* Testing and debugging- Jasmine, Karma, Jest
 * CSS frameworks and pre-processors like Sass, SCSS and LESS
 * UI component libraries-Primeng, Covalent
 * Coding languages- typescript, es6, javascript
-* Web technologies- html, css, scss, css flex, css grid
+* Web technologies- HTML5, css, scss, css flex, css grid
 * Software development approaches such as agile, scrum etc.
 * Documentation - compodoc
 * Package managers- npm
