@@ -82,6 +82,29 @@ i can help in hiring good peeps
 I can help in improving/Scaling the  infrastructure of the company
 I can lead the team
 
+My strengths are I am a good Team player, focused and responsible towards my duties.
+I can contribute in the company like I focus
+Quality of attention to detail from small to big things. I am a Detailed-oriented professional.
+Capability to work in changing environments and technologies.
+I can learn new languages and technologies.
+I'm able to work effectively in a team or on my own.
+Creativity and Problem Solving Ability, Solution-oriented mindset
+i am hardworking
+i have a learning attitude.
+I am also good at debugging code.
+7 years of experience having good command on languages, frameworks, and architectures.
+Building scalable software products.                        
+Code reviews                        
+linkedin recommendations                        
+Along with technology development,                        
+I am in content creation and updation like i am in company elite 1% club                        
+providing mentorship to juniors,                        
+hiring candidates (SuperHirer) - Taken 100+ interviews                        
+Received spot awards
+willing to relocate or travel                        
+Attended many tech & community events like ng-india One of the biggest conferences of Angular held in Delhi, India. There many GDEs give their ideas.                        
+I value creativity, innovation, and leadership. I am always on the lookout for technology inclined people who want to work on innovative ideas!
+
 Weaknesses 
 
 ● Where are your education, training, or skills lacking?

@@ -201,6 +201,21 @@ Driving the requirements
 Maintain the things so that work should not stop - like on weekend i fixed my laptop 
 Participating in company activities - fun Friday, events, webinars, team parties, 
 
+performance, Competencies (Focus areas)
+# goals
+looking for a new senior role (team lead) and support in leadership.
+want to learn high-level and low-level designs of systems (backend development).
+need help in learning DevOps.
+want to work on architect roles
+need to take some tech training course mostly in cloud, backend.
+I am intensely interested in making a long-term commitment to my next opportunity. 
+Looking for new opportunities to explore like architect, team lead
+Open to any feedback
+
+use cypress  for integration testing - good way to check user journey or page journey
+cloud (aws or GCP or azure), java or nodejs or dot net
+module lead
+
 # Projects worked on
 
 Cover client goal, your contribution, and a summary of project success
@@ -246,3 +261,13 @@ outbound - customer care call users- they call us to sell service
 Google
 
 Crawford
+
+you can discuss these things with the manager or team leader in your retro or 1-1 discussion
+Retro kind of thing it is
+retro call agenda-
+Learning
+Feedback
+Team concern
+Risks/Issues/Concerns
+Discuss dependencies
+Slippages
