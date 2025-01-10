@@ -264,7 +264,7 @@ Crawford
 
 you can discuss these things with the manager or team leader in your retro or 1-1 discussion
 Retro kind of thing it is
-retro call agenda-
+retro call agenda- points
 Learning
 Feedback
 Team concern
