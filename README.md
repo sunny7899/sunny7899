@@ -1,16 +1,16 @@
 ## 🎉 About Me:
-I am a  Full Stack  developer with 7+ years of experience passionate about the JavaScript ecosystem. I have a bachelor's degree in computer science. I am most skilled and passionate about Angular and React. I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system. I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
+I am a full-stack developer with 8+ years of experience, passionate about the JavaScript ecosystem. I have a bachelor's degree in computer science. I am most skilled and passionate about Angular and React. I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system. I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
 In my free time, I like to write blogs related to software development. I have the pleasure of working on exciting projects across industries. The applications that I developed were scalable, deployable, and maintainable.
 I have a vision of providing cutting-edge web solutions and services to enterprises. Developed zero-to-one products.
 
 ### Hi there 👋 I'm Sunny I make web applications that get more traffic from Google because they are SEO friendly.
 Software Engineer | Blogger | Social Media Influencer | Developer | Product Engineer |  Leadership | Time management | Collaboration | Problem-solver  | Product Mindset | social media influencer | trader | Tech-nerd | Content Creator
-Front End Developer with a strong interest in programming 
+Developer with a strong interest in programming 
 I help customers to automate and relate their problems to tech to save time.
-7+ years of experience as a "Software Engineer" in developing programs
 Help businesses set up their first online/digital presence.
 Experience in a software agile environment, especially in iterative/continuous delivery.
-Angular/React expert with wide-ranging web development experience  
+Expert with wide-ranging web development experience  
+Successful team leader and complex problem-solver skilled in reviewing, fixing, and improving code to maximize product performance and usability. Bringing 8 years of software development and management experience.
 
 🌟 Spotlight: Meet Sunny🌟
 Product Engineer at Sunnyvale.
@@ -42,9 +42,6 @@ If you’d like to connect or learn more about what i do, feel free to reach out
 I am most skilled and passionate about Frontend(Angular, React), Backend(NodeJS, Dotnet). I am able to provide meaningful contributions to the design, installation, testing, and maintenance of any type of software system.  I like to challenge myself in new roles. I have built and successfully delivered applications in multiple domains.
 
 I have a vision of providing cutting-edge web solutions and services to enterprises. 
-
-7 + years of experience working as a software professional with substantial experience in various programming languages, frameworks, and architectures.
-
 Along with technology development, I am interested in content writing, providing mentorship, hiring candidates and creating content for social media.
 I value creativity, innovation, and leadership. I am always on the lookout for technology inclined people who want to work on innovative  ideas!
 
@@ -83,7 +80,7 @@ Gather and evaluate user feedback.
  Produce clean, efficient code based on specifications. 
  Testing and deploying programs and systems. 
 
-I've been responsible for setting up a new application from scratch, and architecting app architectures to make them scalable, performant, accessible and easy to use.
+I've been responsible for setting up a new application from scratch, and architect's app structure to make them scalable, performant, accessible and easy to use.
 I've had to improve large legacy single-page applications by adding new features and refactoring while ensuring they continue to work undisturbed in production.
 
  Integrate software components and third-party programs. 
@@ -102,7 +99,6 @@ Work closely with different teams for solving technical/integration issues for o
 Architect solutions for real-time tracking of various events, ensuring minimum latency.
 Contribute to the continuous improvement of the development process.
 worked with developers to design algorithms and flowcharts.
-created multiple web apps starting with requirements/information gathering, designing, developing, refactoring, and code implementation.
 
 involve in design discussions and user experience sessions to provide inputs on the layout and UX.
 Designed & Developed new user-facing features. 
@@ -124,7 +120,7 @@ Working on an Agile (Scrum) Development Team to deliver regular updates to the b
 Migrated a legacy Angular2 app to Angular10 and moved the deployment process to Azure by creating pipelines and providing 75+ Percent test coverage.
 
 I grind HTML and CSS and then weld them with Angular into beautiful and efficient websites.
-I focus on a custom line of business applications with Angular
+I focus on a custom line of business applications with Angular.
 Implement best practices in architecture for development and design.
 Drive technical road map and directions.
 Provide technical guidance and coaching.
@@ -143,7 +139,6 @@ Reviewing code, reviewing design, and documents, providing technical talks, teac
 
 Ability to learn other coding languages. 
 optimize web applications to maximize speed and scale. 
-Build Front end software applications, follow coding standards, and build appropriate unit tests, integration tests and deployment scripts.
 Assist in defining architectures and collaborate with teams to explore existing systems, determine areas of complexity, and learn the application's capabilities.
 Contribute to continual improvement by suggesting improvements to the user interface, software architecture or use of new technologies.
 Make web applications by following the agile development approach. So that in future you can easily add features.
