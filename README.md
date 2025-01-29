@@ -263,7 +263,7 @@ Here's how i effectively fulfill both roles: committed to learning, sharing, and
 ## Skills that I'm proficient in and continue to learn with
 * Skilled in front-end engineering using Object-Oriented JavaScript, various JavaScript libraries and micro frameworks (React.js, Angular), HTML, CSS, and Bootstrap.
 * understanding of enterprise software design patterns and data structures.
-* understanding of HTTP protocol, Web Application Design/Architecture.
+* understanding of HTTP protocol, Web Application Design/modular Architecture.
 * Web Components
 * Visual studio code
 * Code quality- ESLint, TS lint
@@ -279,7 +279,8 @@ Here's how i effectively fulfill both roles: committed to learning, sharing, and
 * Tools used- postman, vs code, chrome debugger
 * Version control- github, bitbucket, azure devops,
 * Project management- jira, trello
-* Dev tools - jenkins, git VCS
+* Dev tools - jenkins, git VCS, automation and  CI process
+* WCAG Accessibility 
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>

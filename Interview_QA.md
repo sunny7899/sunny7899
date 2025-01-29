@@ -469,3 +469,89 @@ Get started by answering these questions in your video
 2	What are your professional and technical skills?
 3	Mention if you have received any award in your field?
 4	What are your goals and aspirations
+
+Sale yourself 
+
+recruiter:
+politely ask if they would be willing to refer you.
+Follow up with them after a reasonable period of time, such as a week or two. Remind them of your request and express your gratitude for their time and consideration1.
+Thank them for their help and provide them with your resume and LinkedIn profile URL. You can also offer something valuable in return, such as a testimonial or introduction2.
+Here are some examples of how to ask for a referral on LinkedIn:
+
+
+Designation - senior software engineer 
+Team Handling experience and Individual contributor.
+
+
+In my search for new creative endeavours, I was thrilled to find the developer opening. I believe that I would make an excellent addition to your team.
+My experience includes work in front-end stack like HTML5, CSS3, SCSS, javascript, ES5+, jquery, bootstrap, React.js and angular, ngrx, unit testing, directives, design system and making UI/UX wireframes design and as well as collaborating with Back End Developers to create a stellar finished product. I think my skills and experience makes me a great fit.
+Contributions to my former Front end developer, this field at large, revolve around my essential process of development.
+I am eager to speak with you about this opportunity and thoroughly appreciate your consideration.
+
+Responsibilities:
+
+Ability to work with existing code base and libraries
+Command over CSS to style components
+Create progressive layouts
+Experience in Food, telecom, medical domain
+Use the angular material components (material.angular.io) to construct the UI for production applications
+
+Primary Responsibilities:
+
+Angular Developer
+
+Expertise in Angular 2+
+Expert Level JavaScript and TypeScript
+Deep understanding of language fundamentals
+JavaScript call apply bind
+Can debug and identify problems
+JavaScript Modules
+Packaging systems for JavaScript
+Create and use Angular Components to build entire applications
+
+Templates
+Directives
+Interpolation
+Data Binding
+Pipes
+Nested Components
+Services
+Dependency Injection
+Consuming HTTP Data Services
+Navigation and Routing
+Angular Modules
+Angular Elements
+Testing and deploying using the Angular CLI
+Write programs to generate UI Programs
+
+Template based Forms
+Reactive Forms
+RxJs
+
+Observables and Observers
+Operators
+Mapping Data
+Streams and combining streams
+Reacting to Actions
+Caching Observables
+Higher-order Mapping Operators
+https://www.linkedin.com/in/sunnygupta001/
+
+In my search for new creative endeavours, I was thrilled to find the developer opening. I believe that I would make an excellent addition to your team.
+My experience includes work in front-end stacks like HTML5, CSS3, SCSS, javascript, ES5+, jquery, bootstrap, Angular and React.js, React Hooks, React Redux, Context Api, and making UI/UX wireframe designs, as well as collaborating with back-end developers to create a stellar finished product. I think my skills and experience make me a great fit.
+Contributions to my former front-end developer and to this field at large revolve around my essential process of development.
+I am eager to speak with you about this opportunity and thoroughly appreciate your consideration.
+ 
+write an email to xyz S&P recruiter for the position of senior front end developer with expertise in Angular 14, javascript, html, css, typescript 
+
+Hi xyz, I hope you're doing well! I recently applied to this job (https://www.linkedin.com/jobs/view/3701723686) at Connexions - Startup Hiring Specialists. Would you be willing to tell me more about your experience at the company?
+
+Hi xyz, it’s great to connect with you. Look forward to staying in touch.
+
+I have shared the details on email. do let me know if you received it ir any other information you need.
+
+search hiring in linkedin 
+take job search courses
+check interview questions experience 
+see top applicaant jobs where u can be good fit
+job smooth onboarding process companyname abroad - linkedin
