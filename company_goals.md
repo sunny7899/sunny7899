@@ -2,15 +2,11 @@ Task
 Stretch Goal
 Measure*
 Evidence*
-Weightage*
-Actual*
-Custom Goals
 
 Task
 Adhere to delivery timelines Attending all the project meets on time Teamwork and co-ordination Team ownership
 
 Measure
-Adhere to delivery timelines.
 Should plan to accomplish the task in a time-bound manner.
 Follow Agile practices diligently.
 Attend all the project meets (stand-up calls, grooming, tech/functional discussions, etc) on time and sincerely.
@@ -73,7 +69,7 @@ Measure*
 Complete 100% (in terms of story points) allotted work on assigned new features/fix bugs .(x% for x% of tasks completed) subject to that the delay was not caused by any external factors (delay from client in requirements, personal emergency etc.)
 JIRA will be the only source considered as evidence.
 Unused code cleanup (Sonar/TSLint best practices should be followed - Should keep the code clean and while development should also correct the bad practices which are already there in the code.
-Lighthouse/GTMetrix should be used to check UI performance
+Lighthouse/GTmetrix should be used to check UI performance
 Should write well-optimized code.
 Proper Dev box and Unit testing should be done for the written code.
 Feature completion: Complete all in scope features for the release in acceptance with the product owner.
@@ -202,7 +198,7 @@ Maintain the things so that work should not stop - like on weekend i fixed my la
 Participating in company activities - fun Friday, events, webinars, team parties, 
 
 performance, Competencies (Focus areas)
-# goals
+
 looking for a new senior role (team lead) and support in leadership.
 want to learn high-level and low-level designs of systems (backend development).
 need help in learning DevOps.

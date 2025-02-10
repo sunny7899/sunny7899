@@ -535,7 +535,6 @@ Streams and combining streams
 Reacting to Actions
 Caching Observables
 Higher-order Mapping Operators
-https://www.linkedin.com/in/sunnygupta001/
 
 In my search for new creative endeavours, I was thrilled to find the developer opening. I believe that I would make an excellent addition to your team.
 My experience includes work in front-end stacks like HTML5, CSS3, SCSS, javascript, ES5+, jquery, bootstrap, Angular and React.js, React Hooks, React Redux, Context Api, and making UI/UX wireframe designs, as well as collaborating with back-end developers to create a stellar finished product. I think my skills and experience make me a great fit.

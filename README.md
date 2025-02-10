@@ -191,7 +191,7 @@ personal growth - enhancing knowledge
 best practices, writing maintainable code that allows for scalability
 
 ### Tech Writing
-I enjoy writing my thinking and some times I publish it. written the blogs on Geeksforgeek, thecrazyprogrammer. Here are some of my favourite:
+I enjoy writing my thinking and some times I publish it. written the blogs on Geeksforgeek, thecrazyprogrammer. Here are some of my favorite:
 * [https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/](https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/)
 * [https://blog.ldtalentwork.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/](https://blog.ldtalentwork.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/)
 * [https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/](https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/)

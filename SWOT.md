@@ -92,7 +92,7 @@ Creativity and Problem Solving Ability, Solution-oriented mindset
 i am hardworking
 i have a learning attitude.
 I am also good at debugging code.
-7 years of experience having good command on languages, frameworks, and architectures.
+8 years of experience having good command on languages, frameworks, and architectures.
 Building scalable software products.                        
 Code reviews                        
 linkedin recommendations                        

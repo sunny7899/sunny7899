@@ -263,7 +263,7 @@ Make sure that any of the links that you provide are professional and do not hav
 
 Example:
 
-My Blog - http://yuvi.in
+My Blog - bloglink
 
 This blog has the code that I've written for the past 5 years and also my thoughts on coding
 
@@ -291,28 +291,6 @@ Online portals to create Resume-
 
 You can create a resume online in a shorter time using web applications. It has some free and paid templates which are very effective to use. These resume builder sites also help you to make a visual cv.
 resume scanners and creators
-
-visualcv
-
-resumonk
-
-cvmaker
-
-resumeup
-
-resumegenius
-
-resumebuilder
-
-resume baking
-
-enhancecv
-
-cvcompiler
-
-sample resume template:
-
-https://www.bestsampleresume.com/examples/developer/freelance-developer.html
 
 Other valuable points to add to your resume-
 
