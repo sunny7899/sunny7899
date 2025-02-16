@@ -554,3 +554,15 @@ take job search courses
 check interview questions experience 
 see top applicaant jobs where u can be good fit
 job smooth onboarding process companyname abroad - linkedin
+
+Why you are credible +
+
+Your role and/or any previous roles that are relevant +
+
+Any extracurricular professional accolades or organizations you’re part of +
+
+Something personal that both humanizes you and that you wouldn’t be embarrassed to share during an icebreaker session
+
+Here’s an example of what that could look like:
+
+As a seasoned Software Architect with over a decade of experience, Sarah Smith is not just a code wrangler but a creative problem solver. Having worked on transformative projects at leading tech companies, including her current role as a Senior Developer at Quantum Solutions Inc., she is a driving force behind cutting-edge software solutions. Sarah is an active member of the Open Source Advocates Alliance, where she contributes to fostering collaborative innovation in the tech community. Her commitment to excellence has earned her recognition with the "CodeCraft Prodigy" award from the Software Developers Guild. Outside of the tech realm, Sarah is an avid board game enthusiast and even developed her own coding-themed strategy game, showcasing her passion for both work and play.
