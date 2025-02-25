@@ -34,7 +34,11 @@ I believe that company culture plays a vital role in both personal and team succ
 #### 4. **Problem Solving and Critical Thinking**
 Whether it's finding creative solutions to technical problems or navigating interpersonal dynamics, I’ve earned appreciation for my ability to approach challenges with critical thinking and a calm demeanor. People value how I break down complex issues into manageable tasks and work collaboratively to find the best solutions, ensuring the team moves forward cohesively.
 
-If you’d like to connect or learn more about what i do, feel free to reach out!
+If you’d like to connect or learn more about what I do, feel free to reach out!
+
+* skype:	sunny_g_007	
+* telegram:	sunnyvale321
+* [Topmate](https://topmate.io/softwaredev)
 
 #TeamSpotlight #EmployeeRecognition #CompanyCulture #Teamwork
 
@@ -197,22 +201,27 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 * [https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/](https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/)
   
 ### Freelancing Profiles
-* [Sunnyg007 - Freelancer on Guru](https://www.guru.com/freelancers/sunnyg007)
-* [Sunny G. Profile | Freelancer](https://www.freelancer.in/u/Sunnyvales0909)
-* [https://www.truelancer.com/freelancer/sunnygupta9](https://www.truelancer.com/freelancer/sunnygupta9)
-* [learningdollars.com/freelancer/profile/?erid=sunnyg](http://learningdollars.com/freelancer/profile/?erid=sunnyg)
-* [https://arc.dev/@apexsunny](https://arc.dev/@apexsunny)
-* [https://remoteok.com/@sunnyvale](https://remoteok.com/@sunnyvale)
-* [https://www.linkedin.com/company/infowebtech/](https://www.linkedin.com/company/infowebtech/)
-* [https://topmate.io/softwaredev](https://topmate.io/softwaredev)
+* [Guru](https://www.guru.com/freelancers/sunnyg007)
+* [Freelancer](https://www.freelancer.in/u/Sunnyvales0909)
+* [Truelancer](https://www.truelancer.com/freelancer/sunnygupta9)
+* [Learningdollars](https://learningdollars.com/freelancer/profile/?erid=sunnyg)
+* [Arc.dev](https://arc.dev/@apexsunny)
+* [Remoteok](https://remoteok.com/@sunnyvale)
+* [Fiverr](https://www.fiverr.com/sunnygpt007/)
+* [Golance](https://golance.com/freelancer/apex.sunny)
+* [Turing](https://matching.turing.com/developer-resume-preview/c98b9614ae187a869b55d4b12950906dea4e77420a57)
+* [Upwork](https://www.upwork.com/freelancers/~0169a0dadd323186d9)
+* [Codemonk](https://dashboard.notchup.com/talent/sunnyg)
+* [Anytask](https://anytask.com/apexmansunny)
 
 ### Social Media Handles That I Manage
-* [https://www.threads.net/@angular_development](https://www.threads.net/@angular_development)
-* [https://eraoftech.medium.com/](https://eraoftech.medium.com/)
-* [https://www.facebook.com/learnangular2plus/](https://www.facebook.com/learnangular2plus/)
-* [https://www.facebook.com/groups/694164224125016/](https://www.facebook.com/groups/694164224125016/)
-* [https://www.instagram.com/angular_development/](https://www.instagram.com/angular_development/)
-* [http://youtube.com/@neweraofcoding](http://youtube.com/@neweraofcoding)
+* [Threads](https://www.threads.net/@angular_development)
+* [Medium](https://eraoftech.medium.com/)
+* [Facebook](https://www.facebook.com/learnangular2plus/)
+* [Instagram](https://www.instagram.com/angular_development/)
+* [Youtube](https://youtube.com/@neweraofcoding)
+* [Quora](https://www.quora.com/profile/Sunny-Gupta-208	)
+* [Linkedin](https://www.linkedin.com/company/infowebtech/)
 
 Being an admin of an these pages involves not only maintaining the technical aspects of the page but also actively engaging with the community and sharing knowledge. 
 Here's how i effectively fulfill both roles: committed to learning, sharing, and growing together.
@@ -233,27 +242,27 @@ Here's how i effectively fulfill both roles: committed to learning, sharing, and
 
 ### CV
 * [Resume](https://breezy-debt-856.notion.site/Resume-a819871c4cec4dcba0d0bfedb71063dd)
-* [Sunny Portfolio](https://sunnyportfolio-cv.carrd.co/)
-* [https://serverapp-9b99.onrender.com](https://serverapp-9b99.onrender.com)
+* [Portfolio](https://sunnyportfolio-cv.carrd.co/)
+* [Live Projects](https://serverapp-9b99.onrender.com)
 
 ### Courses I Offer
-* [Frontend Training](https://beginner-to-pro-training.vercel.app/)
+* [Web development Training](https://beginner-to-pro-training.vercel.app/)
 
 ### Coding Profile
-* [https://stackoverflow.com/users/10336767/sunny](https://stackoverflow.com/users/10336767/sunny)
+* [stackoverflow](https://stackoverflow.com/users/10336767/sunny)
 
 ### My Work
-* [https://github.com/angulardevelopment](https://github.com/angulardevelopment)
-* [https://github.com/codeforwebdevelopment](https://github.com/codeforwebdevelopment)
-* [https://github.com/emberjsdevelopment](https://github.com/emberjsdevelopment)
-* [https://github.com/ionicappdevelopment](https://github.com/ionicappdevelopment)
-* [https://github.com/microsoftdotnetdevelopment](https://github.com/microsoftdotnetdevelopment)
-* [https://github.com/NestJS-framework](https://github.com/NestJS-framework)
-* [https://github.com/NodeJSEngineering](https://github.com/NodeJSEngineering)
-* [https://github.com/Programming-Tips-for-Success](https://github.com/Programming-Tips-for-Success)
-* [https://github.com/Pythonprogramming-development](https://github.com/Pythonprogramming-development)
-* [https://github.com/reactjsdevelopment](https://github.com/reactjsdevelopment)
-* [https://github.com/vuejsdevelopment](https://github.com/vuejsdevelopment)
+* [Angulardevelopment](https://github.com/angulardevelopment)
+* [Codeforwebdevelopment](https://github.com/codeforwebdevelopment)
+* [Emberjsdevelopment](https://github.com/emberjsdevelopment)
+* [Ionicappdevelopment](https://github.com/ionicappdevelopment)
+* [Microsoftdotnetdevelopment](https://github.com/microsoftdotnetdevelopment)
+* [NestJS-framework](https://github.com/NestJS-framework)
+* [NodeJSEngineering](https://github.com/NodeJSEngineering)
+* [Programming-Tips-for-Success](https://github.com/Programming-Tips-for-Success)
+* [Pythonprogramming-development](https://github.com/Pythonprogramming-development)
+* [Reactjsdevelopment](https://github.com/reactjsdevelopment)
+* [Vuejsdevelopment](https://github.com/vuejsdevelopment)
 
 ## Packages Knowledge
 * JSStore: It utilises the Index DB of the browser. With this library, you can write code like SQL queries which is a very good approach to handling offline systems.
