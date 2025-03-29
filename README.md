@@ -201,39 +201,10 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 * [https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/](https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/)
   
 ### Freelancing Profiles
-* [Guru](https://www.guru.com/freelancers/sunnyg007)
-* [Freelancer](https://www.freelancer.in/u/Sunnyvales0909)
-* [Truelancer](https://www.truelancer.com/freelancer/sunnygupta9)
-* [Learningdollars](https://learningdollars.com/freelancer/profile/?erid=sunnyg)
-* [Arc.dev](https://arc.dev/@apexsunny)
-* [Remoteok](https://remoteok.com/@sunnyvale)
-* [Fiverr](https://www.fiverr.com/sunnygpt007/)
-* [Golance](https://golance.com/freelancer/apex.sunny)
-* [Turing](https://matching.turing.com/developer-resume-preview/c98b9614ae187a869b55d4b12950906dea4e77420a57)
-* [Upwork](https://www.upwork.com/freelancers/~0169a0dadd323186d9)
-* [Codemonk](https://dashboard.notchup.com/talent/sunnyg)
-* [Anytask](https://anytask.com/apexmansunny)
+* [https://code-for-next-generation.vercel.app/](https://code-for-next-generation.vercel.app/)
 
 ### Social Media Handles That I Manage
-* [Threads](https://www.threads.net/@angular_development)
-* [Medium](https://eraoftech.medium.com/)
-* [Facebook](https://www.facebook.com/learnangular2plus/)
-* [Instagram](https://www.instagram.com/angular_development/)
-* [Youtube](https://youtube.com/@neweraofcoding)
-* [Quora](https://www.quora.com/profile/Sunny-Gupta-208	)
-* [Linkedin](https://www.linkedin.com/company/infowebtech/)
-
-Being an admin of an these pages involves not only maintaining the technical aspects of the page but also actively engaging with the community and sharing knowledge. 
-Here's how i effectively fulfill both roles: committed to learning, sharing, and growing together.
-1. **Content Curation and Creation:**
-
-2. **Engagement and Interaction:**
-
-3. **Technical Support and Guidance:**
-
-4. **Community Building and Networking:**
-
-5. **Page Maintenance and Updates:**
+* [https://code-for-next-generation.vercel.app/](https://code-for-next-generation.vercel.app/)
 
 ### Projects worked on
 * [Angular](https://breezy-debt-856.notion.site/e74d39b91a0b45db86ccf98980ae272b?v=8d485a4a2f1546aa8b33375ab8123bb9)
