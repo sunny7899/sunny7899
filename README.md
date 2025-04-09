@@ -49,6 +49,9 @@ I have a vision of providing cutting-edge web solutions and services to enterpri
 Along with technology development, I am interested in content writing, providing mentorship, hiring candidates and creating content for social media.
 I value creativity, innovation, and leadership. I am always on the lookout for technology inclined people who want to work on innovative  ideas!
 
+I am responsible for debugging, development, and resolving critical production issues by performing detailed root cause analysis. I can assist in debugging configuration-level problems or help developers identify the root cause and affected code areas, enabling them to prioritize fixes and minimize client impact.
+I write automation scripts that help internal teams streamline repetitive tasks efficiently.
+
 # Specialties:
 Building scalable products and services
 Hiring & Mentoring software engineers
@@ -223,17 +226,7 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 * [stackoverflow](https://stackoverflow.com/users/10336767/sunny)
 
 ### My Work
-* [Angulardevelopment](https://github.com/angulardevelopment)
-* [Codeforwebdevelopment](https://github.com/codeforwebdevelopment)
-* [Emberjsdevelopment](https://github.com/emberjsdevelopment)
-* [Ionicappdevelopment](https://github.com/ionicappdevelopment)
-* [Microsoftdotnetdevelopment](https://github.com/microsoftdotnetdevelopment)
-* [NestJS-framework](https://github.com/NestJS-framework)
-* [NodeJSEngineering](https://github.com/NodeJSEngineering)
-* [Programming-Tips-for-Success](https://github.com/Programming-Tips-for-Success)
-* [Pythonprogramming-development](https://github.com/Pythonprogramming-development)
-* [Reactjsdevelopment](https://github.com/reactjsdevelopment)
-* [Vuejsdevelopment](https://github.com/vuejsdevelopment)
+* [https://code-for-next-generation.vercel.app/posts/github](https://code-for-next-generation.vercel.app/posts/github)
 
 ## Packages Knowledge
 * JSStore: It utilises the Index DB of the browser. With this library, you can write code like SQL queries which is a very good approach to handling offline systems.
