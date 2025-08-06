@@ -198,10 +198,8 @@ personal growth - enhancing knowledge
 best practices, writing maintainable code that allows for scalability
 
 ### Tech Writing
-I enjoy writing my thinking and some times I publish it. written the blogs on Geeksforgeek, thecrazyprogrammer. Here are some of my favorite:
-* [https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/](https://www.geeksforgeeks.org/reference-and-copy-variables-in-javascript/)
-* [https://blog.ldtalentwork.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/](https://blog.ldtalentwork.com/2022/03/29/how-to-build-a-video-app-using-angular-and-agora-rtc/)
-* [https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/](https://www.geeksforgeeks.org/less-known-angular-features-you-need-to-know/)
+I enjoy writing my thinking and some times I publish it. written the blogs on various platforms.
+* [https://code-for-next-generation.vercel.app/](https://code-for-next-generation.vercel.app/blogs)
   
 ### Freelancing Profiles
 * [https://code-for-next-generation.vercel.app/](https://code-for-next-generation.vercel.app/)
@@ -210,14 +208,11 @@ I enjoy writing my thinking and some times I publish it. written the blogs on Ge
 * [https://code-for-next-generation.vercel.app/](https://code-for-next-generation.vercel.app/)
 
 ### Projects worked on
-* [Angular](https://breezy-debt-856.notion.site/e74d39b91a0b45db86ccf98980ae272b?v=8d485a4a2f1546aa8b33375ab8123bb9)
-* [ReactJS](https://breezy-debt-856.notion.site/a11886c4bcfa4dc289720fc9815f1850?v=8e2f216fa2624e9ab96f256d616f0f8c)
-* [Node.JS](https://breezy-debt-856.notion.site/8587739b77c84aa6824243f2dc8d82bd?v=31f3fd487440434aaf6ca00f75370037)
+* [https://code-for-next-generation.vercel.app/](https://code-for-next-generation.vercel.app/)
 
 ### CV
 * [Resume](https://breezy-debt-856.notion.site/Resume-a819871c4cec4dcba0d0bfedb71063dd)
-* [Portfolio](https://sunnyportfolio-cv.carrd.co/)
-* [Live Projects](https://serverapp-9b99.onrender.com)
+* [Projects and Portfolio](https://sunnyportfolio-cv.carrd.co/)
 
 ### Courses I Offer
 * [Web development Training](https://beginner-to-pro-training.vercel.app/)
