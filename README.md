@@ -4,7 +4,7 @@ In my free time, I like to write blogs related to software development. I have t
 I have a vision of providing cutting-edge web solutions and services to enterprises. Developed zero-to-one products.
 
 ### Hi there 👋 I'm Sunny I make web applications that get more traffic from Google because they are SEO friendly.
-Software Engineer | Blogger | Social Media Influencer | Developer | Product Engineer |  Leadership | Time management | Collaboration | Problem-solver  | Product Mindset | social media influencer | trader | Tech-nerd | Content Creator
+## Senior architect | Software Engineer | Blogger | Social Media Influencer | Developer | Product Engineer |  Leadership | Time management | Collaboration | Problem-solver  | Product Mindset | social media influencer | trader | Tech-nerd | Content Creator
 Developer with a strong interest in programming 
 I help customers to automate and relate their problems to tech to save time.
 Help businesses set up their first online/digital presence.
@@ -81,6 +81,8 @@ Improved the progressiveness, responsiveness, and load time to better performanc
 I am a problem setter on CutShort.
 
 # Responsibilities 
+
+### Product
 Gather and evaluate user feedback.
  Experience with software design and development in a test-driven environment.
  Resourcefulness and troubleshooting aptitude
@@ -193,8 +195,11 @@ Created accessible interfaces
 Created an application that works both online and offline. 
 Improved the product by updating the technology version and by using the latest features of the language.
 Developed multilingual apps
+
+### Interview
 I am a problem setter for various assessments.
-personal growth - enhancing knowledge 
+
+### Personal growth - enhancing knowledge 
 best practices, writing maintainable code that allows for scalability
 
 ### Tech Writing
