@@ -4,7 +4,7 @@ In my free time, I like to write blogs related to software development. I have t
 I have a vision of providing cutting-edge web solutions and services to enterprises. Developed zero-to-one products.
 
 ### Hi there 👋 I'm Sunny I make web applications that get more traffic from Google because they are SEO friendly.
-## Senior architect | Software Engineer | Blogger | Social Media Influencer | Developer | Product Engineer |  Leadership | Time management | Collaboration | Problem-solver  | Product Mindset | social media influencer | trader | Tech-nerd | Content Creator
+## GDE Angular | Senior architect | Software Engineer | Blogger | Social Media Influencer | Developer | Product Engineer |  Leadership | Time management | Collaboration | Problem-solver  | Product Mindset | social media influencer | trader | Tech-nerd | Content Creator
 Developer with a strong interest in programming 
 I help customers to automate and relate their problems to tech to save time.
 Help businesses set up their first online/digital presence.
@@ -259,6 +259,10 @@ I enjoy writing my thinking and some times I publish it. written the blogs on va
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 </p>
+
+<!-- ![alt text](gde_profile.png) -->
+
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png) Join the CoderLegion Community](https://coderlegion.com/user/Sunny)
 
 ## Stats :star:
 
